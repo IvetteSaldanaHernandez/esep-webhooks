@@ -1,0 +1,22 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.p12
+*credentials*.csv
+
+# macOS
+.DS_Store
